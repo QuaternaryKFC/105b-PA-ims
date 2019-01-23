@@ -7,7 +7,7 @@ class Artist < Model
   end
 
   def self.adaptor
-    @@adaptor ||= $adaptor.new "artists"
+    @adaptor ||= $adaptor.new "artists"
   end
 
   def save

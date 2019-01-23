@@ -8,7 +8,7 @@ class Track < Model
   end
 
   def self.adaptor
-    @@adaptor ||= $adaptor.new "tracks"
+    @adaptor ||= $adaptor.new "tracks"
   end
 
   def artist

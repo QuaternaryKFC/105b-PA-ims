@@ -7,7 +7,7 @@ class PlayRecord < Model
   end
 
   def self.adaptor
-    @@adaptor ||= $adaptor.new "play_records"
+    @adaptor ||= $adaptor.new "play_records"
   end
 
   def track

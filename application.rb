@@ -7,7 +7,7 @@ class Application
   def run
     loop do
       print "ims> "
-      cmd = $stdin.gets.chomp.downcase
+      cmd = $stdin.gets.strip.downcase
       output = @interpreter.execute cmd
       break if output.nil?
       puts "=> " + output

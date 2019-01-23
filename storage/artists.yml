@@ -1,0 +1,18 @@
+---
+:entries:
+  uh0: !ruby/object:Artist
+    name: utada hikaru
+    descript: 
+    id: uh0
+  sm0: !ruby/object:Artist
+    name: sakamoto maaya
+    descript: 
+    id: sm0
+  sk0: !ruby/object:Artist
+    name: suzumura kenichi
+    descript: 
+    id: sk0
+  ha0: !ruby/object:Artist
+    name: hamasaki ayumi
+    descript: 
+    id: ha0

@@ -1,0 +1,28 @@
+---
+:default_id: 4
+:entries:
+  0: !ruby/object:Track
+    name: you can't catch me
+    artist_id: sm0
+    descript: 
+    id: 0
+  1: !ruby/object:Track
+    name: circle of life
+    artist_id: unknown
+    descript: 
+    id: 1
+  2: !ruby/object:Track
+    name: sakura nagashi
+    artist_id: uh0
+    descript: 
+    id: 2
+  3: !ruby/object:Track
+    name: manatsu no touri ame
+    artist_id: uh0
+    descript: 
+    id: 3
+  4: !ruby/object:Track
+    name: can we play a love song
+    artist_id: uh0
+    descript: 
+    id: 4

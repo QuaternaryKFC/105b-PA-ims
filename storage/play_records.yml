@@ -1,0 +1,11 @@
+---
+:default_id: 1
+:entries:
+  0: !ruby/object:PlayRecord
+    track_id: 1
+    time_played: !ruby/object:DateTime 2019-01-21 14:16:11.059623254 -08:00
+    id: 0
+  1: !ruby/object:PlayRecord
+    track_id: 0
+    time_played: !ruby/object:DateTime 2019-01-21 14:16:24.063380457 -08:00
+    id: 1
